@@ -9,6 +9,7 @@
 8. git checkout -b <nombre de la rama> <!-- crear rama -->
 9. git checkout <nombre de la rama> <!-- cambiar a una rama -->
 10. git branch -d <nombre de la rama> <!-- Eliminar rama -->
+11. git push <!--Exporta los cambios a un repositorio externo como github-->
 13. git branch <!-- Lista de ramas -->
 
 
