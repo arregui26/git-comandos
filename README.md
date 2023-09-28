@@ -6,8 +6,8 @@
 5  - git checkout -- . <!--reestablecer último commit-->
 6  - git log <!-- revisa el historial de commits-->
 7  - git commit --amend <!--Edita el commit anterior-->
-8  - git checkout -b rama-heroes
-9  - git checkout master
+8  - git checkout -b rama-heroes <!-- crear rama-->
+9  - git checkout master <!--cambiar a rama master-->
 13 - git branch <!--Lista de ramas-->
 
 
